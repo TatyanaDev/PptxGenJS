@@ -1,5 +1,5 @@
 {
-  "name": "my-next-pptx",
+  "name": "pptxgenjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.3.5",
+    "next": "~15.3.0",
     "pptxgenjs": "^4.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -20,7 +20,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.3.5",
+    "eslint-config-next": "~15.3.0",
     "typescript": "^5"
   }
 }
